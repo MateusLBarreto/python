@@ -1,5 +1,0 @@
-# Questao 31
-a = int(input())
-b = int(input())
-soma = a + b
-print (soma)
